@@ -38,6 +38,7 @@ var app = {
 
         console.log(navigator.notification);
 
+        // https://www.npmjs.com/package/cordova-plugin-dialogs
         function alertDismissed() {
             // do something
         }
@@ -52,9 +53,11 @@ var app = {
             'Done'                  // buttonName
         );
 
+        // https://www.npmjs.com/package/cordova-plugin-inappbrowser
         var ref = cordova.InAppBrowser.open('http://apache.org', '_blank', 'location=yes');
         window.open = cordova.InAppBrowser.open;
 
+        // https://www.npmjs.com/package/cordova-plugin-camera
         navigator.camera.getPicture(onSuccess, onFail, {
             quality: 50,
             destinationType: Camera.DestinationType.FILE_URI

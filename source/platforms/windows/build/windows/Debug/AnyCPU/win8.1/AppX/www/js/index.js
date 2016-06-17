@@ -42,6 +42,7 @@ var app = {
             // do something
         }
 
+        // send all JS alerts to the notification dialog
         alert = navigator.notification.alert;
 
         navigator.notification.alert(

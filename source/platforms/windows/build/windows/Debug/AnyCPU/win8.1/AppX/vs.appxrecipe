@@ -91,7 +91,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
-      <Modified>2016-06-17T16:09:01.302</Modified>
+      <Modified>2016-06-17T16:09:39.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js">
       <PackagePath>www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js</PackagePath>
