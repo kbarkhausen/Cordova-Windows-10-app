@@ -34,7 +34,12 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+
+        window.open = cordova.InAppBrowser.open;
+
         console.log(navigator.notification);
+
+        var ref = cordova.InAppBrowser.open('http://apache.org', '_blank', 'location=yes');
 
         function alertDismissed() {
             // do something

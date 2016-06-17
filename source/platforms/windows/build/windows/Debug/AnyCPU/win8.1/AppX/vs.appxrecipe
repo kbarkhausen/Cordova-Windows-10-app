@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-17T15:57:02.326</Modified>
+      <Modified>2016-06-17T15:58:04.401</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -91,7 +91,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
-      <Modified>2016-06-17T15:57:00.371</Modified>
+      <Modified>2016-06-17T15:59:50.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
@@ -131,7 +131,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-06-17T15:57:02.223</Modified>
+      <Modified>2016-06-17T15:58:04.355</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
