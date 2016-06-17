@@ -34,6 +34,19 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        console.log(navigator.notification);
+
+        function alertDismissed() {
+            // do something
+        }
+
+        navigator.notification.alert(
+            'You are the winner!',  // message
+            alertDismissed,         // callback
+            'Game Over',            // title
+            'Done'                  // buttonName
+        );
+
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {

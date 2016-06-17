@@ -9,6 +9,12 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "HelloWorld"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "HelloWorld"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "HelloWorld"
         }
     },
     "dependent_plugins": {}
