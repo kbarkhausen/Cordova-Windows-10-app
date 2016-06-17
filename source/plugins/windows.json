@@ -15,7 +15,14 @@
         },
         "cordova-plugin-inappbrowser": {
             "PACKAGE_NAME": "HelloWorld"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "HelloWorld"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "HelloWorld"
+        }
+    }
 }

@@ -10,7 +10,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>com.example.hello</PackageIdentityName>
     <IntermediateOutputPath>D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>367A1D42810CA925F58264528E3C1400DEA2A40A6EE285406C64DC635C44F474</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>949C4CA96E93AA651664EE3798E7BEE60245C29DCA772B2D29AE1F4C148C888F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.example.hello_0.0.1.0_neutral__bzbj8h50hftv4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.example.hello_bzbj8h50hftv4!com.example.hello</RegisteredUserModeAppID>
     <RegisteredPackageID>com.example.hello</RegisteredPackageID>
@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-17T15:58:04.401</Modified>
+      <Modified>2016-06-17T16:05:27.356</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -71,67 +71,87 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\img\logo.png">
       <PackagePath>www\img\logo.png</PackagePath>
-      <Modified>2016-06-17T15:55:56.777</Modified>
+      <Modified>2016-06-17T16:02:09.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\cordova-js-src\exec.js">
       <PackagePath>www\cordova-js-src\exec.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.783</Modified>
+      <Modified>2016-06-17T16:02:09.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\cordova-js-src\platform.js">
       <PackagePath>www\cordova-js-src\platform.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.784</Modified>
+      <Modified>2016-06-17T16:02:09.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.815</Modified>
+      <Modified>2016-06-17T16:02:09.085</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.816</Modified>
+      <Modified>2016-06-17T16:02:09.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
-      <Modified>2016-06-17T15:59:50.555</Modified>
+      <Modified>2016-06-17T16:09:01.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js</PackagePath>
+      <Modified>2016-06-17T16:02:09.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\Camera.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\Camera.js</PackagePath>
+      <Modified>2016-06-17T16:02:09.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraConstants.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraConstants.js</PackagePath>
+      <Modified>2016-06-17T16:02:09.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js</PackagePath>
+      <Modified>2016-06-17T16:02:09.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js</PackagePath>
+      <Modified>2016-06-17T16:02:09.111</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.821</Modified>
+      <Modified>2016-06-17T16:02:09.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-dialogs\www\notification.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\www\notification.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.822</Modified>
+      <Modified>2016-06-17T16:02:09.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js">
       <PackagePath>www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.832</Modified>
+      <Modified>2016-06-17T16:02:09.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js">
       <PackagePath>www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js</PackagePath>
-      <Modified>2016-06-17T15:55:56.834</Modified>
+      <Modified>2016-06-17T16:02:09.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\WinJS\js\base.js">
       <PackagePath>www\WinJS\js\base.js</PackagePath>
-      <Modified>2016-06-17T15:55:57.145</Modified>
+      <Modified>2016-06-17T16:02:09.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\css\inappbrowser.css">
       <PackagePath>www\css\inappbrowser.css</PackagePath>
-      <Modified>2016-06-17T15:55:56.818</Modified>
+      <Modified>2016-06-17T16:02:09.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\css\index.css">
       <PackagePath>www\css\index.css</PackagePath>
-      <Modified>2016-06-17T15:55:56.775</Modified>
+      <Modified>2016-06-17T16:02:09.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2016-06-17T15:55:56.779</Modified>
+      <Modified>2016-06-17T16:02:09.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
-      <Modified>2016-06-17T15:55:56.758</Modified>
+      <Modified>2016-06-17T16:02:09.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-06-17T15:58:04.355</Modified>
+      <Modified>2016-06-17T16:05:27.308</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

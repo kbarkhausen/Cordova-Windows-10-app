@@ -70,6 +70,21 @@
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\js\index.js">
       <PackagePath>www\js\index.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\Camera.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\Camera.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraConstants.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraConstants.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js">
+      <PackagePath>www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js">
       <PackagePath>www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js</PackagePath>
     </AppxPackagedFile>

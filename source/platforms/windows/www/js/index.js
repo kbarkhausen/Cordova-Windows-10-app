@@ -32,18 +32,18 @@ var app = {
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
-    onDeviceReady: function() {
+    onDeviceReady: function () {
+
         app.receivedEvent('deviceready');
 
-        window.open = cordova.InAppBrowser.open;
-
         console.log(navigator.notification);
-
-        var ref = cordova.InAppBrowser.open('http://apache.org', '_blank', 'location=yes');
 
         function alertDismissed() {
             // do something
         }
+
+        // send all JS alerts to the notification dialog
+        alert = navigator.notification.alert;
 
         navigator.notification.alert(
             'You are the winner!',  // message
@@ -51,6 +51,23 @@ var app = {
             'Game Over',            // title
             'Done'                  // buttonName
         );
+
+        var ref = cordova.InAppBrowser.open('http://apache.org', '_blank', 'location=yes');
+        window.open = cordova.InAppBrowser.open;
+
+        navigator.camera.getPicture(onSuccess, onFail, {
+            quality: 50,
+            destinationType: Camera.DestinationType.FILE_URI
+        });
+
+        function onSuccess(imageURI) {
+            var image = document.getElementById('myImage');
+            image.src = imageURI;
+        }
+
+        function onFail(message) {
+            alert('Failed because: ' + message);
+        }
 
     },
     // Update DOM on a Received Event

@@ -17,6 +17,11 @@ www\css\index.css
 www\img\logo.png
 www\index.html
 www\js\index.js
+www\plugins\cordova-plugin-camera\src\windows\CameraProxy.js
+www\plugins\cordova-plugin-camera\www\Camera.js
+www\plugins\cordova-plugin-camera\www\CameraConstants.js
+www\plugins\cordova-plugin-camera\www\CameraPopoverHandle.js
+www\plugins\cordova-plugin-camera\www\CameraPopoverOptions.js
 www\plugins\cordova-plugin-dialogs\src\windows\NotificationProxy.js
 www\plugins\cordova-plugin-dialogs\www\notification.js
 www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js
