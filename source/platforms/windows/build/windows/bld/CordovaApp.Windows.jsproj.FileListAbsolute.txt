@@ -1,0 +1,15 @@
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\ReverseMap\resources.pri
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\AppxManifest.xml
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\Debug\AnyCPU\win8.1\CordovaApp.Windows.build.appxrecipe
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\priconfig.xml
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\layout.resfiles
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\resources.resfiles
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\pri.resfiles
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\qualifiers.txt
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\build\windows\bld\ProjectArchitectures.txt

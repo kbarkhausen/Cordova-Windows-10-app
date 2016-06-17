@@ -1,0 +1,1 @@
+D:\Data\Source Code\github\Cordova-Windows-10-app\source\platforms\windows\CordovaApp.Windows.jsproj;neutral
